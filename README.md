@@ -7,7 +7,7 @@ Steps to include this library in Visual Studio
 1. This project was built in accordance with Eigen 3.4.
 2. Download the release package.
 3. Extract it and save it anywhere on your system.
-4. Make sure to add this folder as part of the Include directories under "Project -> Properties -> Configuratio Properties -> VC++ Directories "
+4. Make sure to add this folder as part of the Include directories under "Project -> Properties -> Configuration Properties -> VC++ Directories "
 
 Typical BMS on any xEV has mainly these functions :
 1. Battery Contactor Opening or Closing
